@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+<head>   
+    <title>pemograman web 1</title>
+</head>
+
+<body>
+	<!-- P digunakan untuk paragraf -->
+	<p> hello word ! selamat datang </p>
+	<p> jangan macam macam </p>
+</body>
+</html>
+<!-- tag adalah adalah kode di dalam kurung kurang dari
+
+judul halaman <title
+css style
+javascript script
+metadata meta -->
